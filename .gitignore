@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+vendor/
+# python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+# build
+dist/
+build/
+out/
+# env & secrets
+.env
+.env.*
+# logs & tmp
+*.log
+logs/
+pids/
+.DS_Store
